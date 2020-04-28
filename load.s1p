@@ -1,0 +1,11 @@
+!LOAD
+!
+!Vd= 40 V, Id = 360 mA, Vg1 = -2.4 V Typical, Vg2 = +17.7V typical, Tbase = 25C
+# GHz   S   DB   R   50
+!      	Freq   	dB S11 	Deg S11	
+0	-30	0	
+1	-28	0
+2	-27	0
+5	-25	0
+10	-20	0	
+! End Data
